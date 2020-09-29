@@ -1,2 +1,2 @@
 # Simple-Pyhton-Projects
-Simple Pyhton Projects.
+Beginner Level Pyhton Projects
